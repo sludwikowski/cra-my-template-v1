@@ -2,7 +2,7 @@
   "name": "cra-template-create-react-app",
   "version": "1.0.0",
   "devDependencies": {
-    "np": "^7.6.2"
+    "np": "^7.5.0"
   },
   "scripts": {
     "release": "np"
