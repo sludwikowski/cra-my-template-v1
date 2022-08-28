@@ -1,6 +1,6 @@
 {
   "name": "cta-template-create-react-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "devDependencies": {
     "np": "^7.5.0"
   },
